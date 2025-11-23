@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color:rgb(149, 187, 243);
+padding:10px;
+}
+main h1{
+    background-color: rgb(150, 198, 241);
+    color: blue;
+   border-radius:15px; 
+    padding:15px;
+}
+footer p {
+    background-color: pink;
+}
+nav {
+    background-color: #5e9c31;
+}
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration:none;
+    color:white;
+}
+.dog{
+    background-color: #5e9c31;
+}
+.product {
+    background-color: aquamarine;
+    padding: 10px;
+}
+h2 {
+   margin:10px;
+   color:blue;
+}
+.cnopca{
+    text-decoration: none;
+    border: 2px solid navy;
+    padding: 5px;
+    color:navy;
+}
